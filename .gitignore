@@ -1,0 +1,56 @@
+.vscode/*
+*.code-workspace
+.history/*
+
+# Visual Studio
+.vs/*
+*.suo
+*.db
+*.ipch
+*.sqlite
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.o
+*.i
+*.ii
+*.s
+*.asm
+
+# Makefile
+# makefile
+Makefile.win
+makefile.win
+
+# project_specific
+.github/
